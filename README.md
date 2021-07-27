@@ -1,7 +1,7 @@
 # Spectral lineshapes of axionlike dark matter
 
 This repository contains the Python code used to generate Figures 2 and 3 of our paper:
-> A.V. Gramolin, A. Wickenbrock, D. Aybas, H. Bekker, D. Budker, G.P. Centers, N.L. Figueroa, D.F. Jackson Kimball, and A.O. Sushkov, "Spectral signatures of axionlike dark matter", [arXiv:2107.xxxxx](https://arxiv.org/abs/2107.xxxxx)
+> A.V. Gramolin, A. Wickenbrock, D. Aybas, H. Bekker, D. Budker, G.P. Centers, N.L. Figueroa, D.F. Jackson Kimball, and A.O. Sushkov, "Spectral signatures of axionlike dark matter", [arXiv:2107.11948](https://arxiv.org/abs/2107.11948)
 
 ### Requirements
 
